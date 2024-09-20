@@ -5,7 +5,7 @@ The automation assignment is done in two ways:
 # UI Automation:
 ## This framework is built using Selenium in Python
 ## Steps:
-Run the python file using "python c:/Users/{Username}/{Porjectdirectory}/pythonProject/UI-automation/uitest.py"
+Run the python file using "python c:/Users/{Username}/{Projectdirectory}/pythonProject/UI-automation/uitest.py"
 1. First launch the Chrome webdriver.
 2. Seach for the searchbox and Provide the Productname to be searched
 3. Click on the Search button
