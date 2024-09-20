@@ -29,9 +29,23 @@ This framework designed to test the "JSONPlaceholder" API.
 1. First navigate to the "api-automation-project" directory - cd api-automation-project
 2. Run the "npm test" command - To run the tests in the project
 3. Now run the command "npx mocha test/apiTests/getTests.js" - To execute the GET Command scripts
+4. Now again run "npm test" command to rerun all the tests
+5. Now to run the posts call use the command "npx mocha test/apiTests/postTests.js" - To execute the POST Command scripts
+6. Everytime before running the CRUD operation scripts we have to run the npm test command
 
 ## Results for API automation:
+
+### GET Operation on JSONPlaceholder mock API
 ![image](https://github.com/user-attachments/assets/ae438ad9-902d-4e6a-9c10-9d2e32167c03)
+
+### POST Operation on JSONPlaceholder mock API
+![image](https://github.com/user-attachments/assets/c0ded7f8-4638-4858-b8dc-e27478fd3a55)
+
+### PUT Operation on JSONPlaceholder mock API
+![image](https://github.com/user-attachments/assets/aa3b36c6-4bbd-4195-920d-7bef03920611)
+
+### DELETE Operation on JSONPlaceholder mock API
+![image](https://github.com/user-attachments/assets/5343fdaf-d9f2-494b-a8ea-02baa0f42736)
 
 
 
