@@ -30,6 +30,10 @@ This framework designed to test the "JSONPlaceholder" API.
 2. Run the "npm test" command - To run the tests in the project
 3. Now run the command "npx mocha test/apiTests/getTests.js" - To execute the GET Command scripts
 
+## Results for API automation:
+![image](https://github.com/user-attachments/assets/ae438ad9-902d-4e6a-9c10-9d2e32167c03)
+
+
 
 
 
