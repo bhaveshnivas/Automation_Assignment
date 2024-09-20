@@ -2,9 +2,9 @@ The automation assignment is done in two ways:
 1. UI Automation is done for the Ecommerce Website (i.e) Searching a product and adding to cart till checkout page
 2. API Automation is done from Option 2 in the Assignment given (i.e) Testing the CRUD operations for an opensource endpoint APIs
 
-## UI Automation:
-# This framework is built using Selenium in Python
-# Steps:
+# UI Automation:
+## This framework is built using Selenium in Python
+## Steps:
 Run the python file using "python c:/Users/{Username}/{Porjectdirectory}/pythonProject/UI-automation/uitest.py"
 1. First launch the Chrome webdriver.
 2. Seach for the searchbox and Provide the Productname to be searched
@@ -17,9 +17,9 @@ Run the python file using "python c:/Users/{Username}/{Porjectdirectory}/pythonP
 9. Verify the checkout page
 10. Close the driver
 
-## API Automation:
+# API Automation:
 This framework designed to test the "JSONPlaceholder" API. 
-# Technologies Used for API Automation
+## Technologies Used for API Automation
 1. JavaScript: Programming language
 2. Mocha: Framework for running tests.
 3. Chai: Assertion library to perform assertions on the API responses.
